@@ -1,5 +1,5 @@
 # NEAT_AI-Flappy_Bird
-AI learns to play Flappy Bird
+neat ai learns to play flappy bird
 
 
 
